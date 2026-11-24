@@ -1,0 +1,1 @@
+import{T}from"./titleHeroesUrl.p1-n2cQP_IO.js";import{T as _}from"./titleHeroesUrl.p2-BdApo7-o.js";import{T as E}from"./titleHeroesUrl.p3-CjosQMPZ.js";import{T as o}from"./titleHeroesUrl.p3b-C2CRG5ur.js";import{T as A}from"./titleHeroesUrl.p4-adUvqBLy.js";import{T as L}from"./titleHeroesUrl.p4b-qaORb0uM.js";const p=T+_+E+o+A+L;export{p as T};
